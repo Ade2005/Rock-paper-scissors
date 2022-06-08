@@ -1,1 +1,8 @@
-# Rock-paper-scissors
+# Zuri Task on Rock Paper and Scissors Game
+Rock, Paper, Scissor is a simple two-player game where, at a signal, players make figures with their hands, representing a rock, a piece of paper, or a pair of scissors. The winner is determined according to a set of rules.
+
+A brief summary of the rules:
+
+If the two players choose the same “character” it’s a tie, and the game repeats. Rock beats Scissors, Paper beats Rock, Scissors beats Paper.
+
+Used Python's random module to assign a random choice to the computer so the game is provably fair.
